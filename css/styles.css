@@ -17,7 +17,14 @@ body {
 
 .btn-color {
     background-color: #ee6f57;
+}
+
+.btn-color a {
     color: #F0F0F0;
+}
+
+.btn-color a:hover {
+    text-decoration: none;
 }
 
 #resume-nav {
