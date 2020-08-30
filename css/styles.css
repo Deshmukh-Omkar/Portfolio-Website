@@ -2,6 +2,11 @@ body {
     background-color: #eeeeee;
 }
 
+.navbar {
+    background: transparent;
+    border-bottom: 0px;
+}
+
 /********* RESPONSIVE MEDIA QUERIES *********/
 
 /* For Mobile Phones: */
