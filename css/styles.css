@@ -27,10 +27,6 @@ body {
     text-decoration: none;
 }
 
-#resume-nav {
-    padding-right: 0px;
-}
-
 .navbar li {
     padding-right: 45px;
 }
@@ -41,15 +37,49 @@ body {
     margin-bottom: 0px;
 }
 
+#resume-nav {
+    padding-right: 0px;
+}
+
 .ul-nav {
     margin: 1px;
 }
 
-/** Jumbotron **/
+/** Home Screen Text **/
 .bg-img {
     background-color: #145374;
     height: 100vh;
+    text-align: center;
+    color: #F0F0F0;
 }
+
+.bg-img h1 {
+    font-size: 40vh;
+}
+
+.bg-img pre {
+    font-size: 8vh;
+    color: #F0F0F0;
+}
+
+.bg-img pre span {
+    color: #ee6f57;
+}
+
+.text-div {
+    float: left;
+}
+
+section .text-div{
+    width: 70%;
+    height: 90%;
+}
+
+section .img-div{
+    width: 30%;
+    height: 90%;
+}
+
 /********* RESPONSIVE MEDIA QUERIES *********/
 
 /* For Mobile Phones: */
