@@ -10,10 +10,27 @@ body {
     font-family: 'Crimson Text', serif;
 }
 
+/** Navbar **/
+.a-nav {
+    color: #F0F0F0;
+}
+
+.btn-color {
+    background-color: #ee6f57;
+    color: #F0F0F0;
+}
+
+#resume-nav {
+    padding-right: 0px;
+}
+
+.navbar li {
+    padding-right: 45px;
+}
+
 .navbar {
     background: transparent;
     border: 0px;
-    margin-top: 10px;
     margin-bottom: 0px;
 }
 
@@ -21,12 +38,10 @@ body {
     margin: 1px;
 }
 
-.li-nav {
-    padding-right: 1px;
-}
-
-#contact-nav {
-    margin-right: 5px;
+/** Jumbotron **/
+.bg-img {
+    background-color: #145374;
+    height: 100vh;
 }
 /********* RESPONSIVE MEDIA QUERIES *********/
 
