@@ -1,6 +1,12 @@
 body {
     background-color: #f6f5f5;
+}
+
+.sans-serif {
     font-family: 'Alata', sans-serif;
+}
+
+.serif {
     font-family: 'Crimson Text', serif;
 }
 
