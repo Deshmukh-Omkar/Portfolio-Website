@@ -4,9 +4,22 @@ body {
 
 .navbar {
     background: transparent;
-    border-bottom: 0px;
+    border: 0px;
+    margin-top: 10px;
+    margin-bottom: 0px;
 }
 
+.ul-nav {
+    margin: 1px;
+}
+
+.li-nav {
+    padding-right: 1px;
+}
+
+#contact-nav {
+    margin-right: 5px;
+}
 /********* RESPONSIVE MEDIA QUERIES *********/
 
 /* For Mobile Phones: */
