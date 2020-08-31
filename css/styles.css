@@ -71,13 +71,14 @@ body {
 }
 
 section .text-div{
-    width: 70%;
+    width: 70vw;
     height: 90%;
 }
 
-section .img-div{
-    width: 30%;
+section .img-div {
     height: 90%;
+    overflow: hidden;
+    width: 30vw;
 }
 
 /********* RESPONSIVE MEDIA QUERIES *********/
